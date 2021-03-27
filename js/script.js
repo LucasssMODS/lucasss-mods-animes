@@ -20,10 +20,10 @@ async function animeList(){
             <div class="flex__item">
                <a href="${content.url}">
                   <h1>${content.title}</h1>
-                  <h2>Episodes: ${content.episodes} Type: ${content.type}</h2> 
+                  <h2>Episódios: ${content.episodes} Modelo: ${content.type}</h2> 
                   
                   <div class="info">
-                     <p>Score: ${content.score}</p>
+                     <p>Pontuação: ${content.score}</p>
                   </div>
 
                   <img src="${content.image_url}">
