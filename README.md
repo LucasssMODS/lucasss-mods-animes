@@ -6,3 +6,4 @@ Link Da API: [Visualizar](https://jikan.moe/)
 Link Do Projeto Online: [Visualizar](https://LucasssMODS.github.io/Buscador-De-Animes/)
 
 ![Preview](https://github.com/LucasssMODS/Buscador-De-Animes/preview.png)
+# Buscador-De-Animes
