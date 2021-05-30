@@ -5,5 +5,5 @@ Link Da API: [Visualizar](https://luc4rio.herokuapp.com)
 
 Link Do Projeto Online: [Visualizar](https://lucasss-mods-animes.tk)
 
-![Preview](https://github.com/LucasssMODS/Buscador-De-Anime/blob/main/preview.png)
+![Imagem](https://github.com/LucasssMODS/Buscador-De-Anime/blob/main/lucasss-mods-animes.png)
 # Buscador-De-Animes
