@@ -1,4 +1,4 @@
-## lucasss-mods-animesa
+## lucasss-mods-animes
 
 Link Do Projeto Online: [Visualizar](https://www.lucasss-mods-animes.tk)
 
